@@ -322,4 +322,4 @@ class App extends Component {
 export default App;
 ```
 
-@[Sample React App Boilerplate]({"stubs": ["src/app/App.js", "src/main.js", "src/index.html", "src/app/Header.js","src/app/Content.js", "src/app/SideBar.js"], "command": "./run.sh"})
+@[Sample React App Boilerplate]({"stubs": ["src/app/App.js", "src/main.js", "src/index.tpl.html", "src/app/Header.js","src/app/Content.js", "src/app/SideBar.js"], "command": "./run.sh"})
